@@ -1,7 +1,5 @@
 ### Hi there, I'm Tristan 👋
 
-## I'm a software engineer who loves security!
-
 - 🔭 I study at Windesheim 🧠
 - 📽 I’m currently working at MVI AudioVisual 👨🏼‍💻
 - 🥅 My goal in life: Helping people 🤝
