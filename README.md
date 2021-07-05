@@ -38,4 +38,4 @@
 </details>
 
 [instagram]: https://www.instagram.com/tristanderode0/
-###[linkedin]: https://www.linkedin.com/in/tristan-weijts-8887381b5/
+//[linkedin]: https://www.linkedin.com/in/tristan-weijts-8887381b5/
