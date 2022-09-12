@@ -1,7 +1,7 @@
 ### Hi there, I'm Tristan 👋
 
 - 🔭 I study at Windesheim 🧠
-- 📽 I’m currently working at MVI AudioVisual 👨🏼‍💻
+- 📽 I’m currently working at the Police 👨🏼‍💻
 - 🥅 My goal in life: Helping people 🤝
 - ⚡ Hobbies: Fitness, Programming and Studying 💪
 
